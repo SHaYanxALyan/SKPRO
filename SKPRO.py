@@ -733,7 +733,3 @@ def apix(ids,passlist):
                 except Exception as e:
                         pass
         
-
-
-
-shayan()
